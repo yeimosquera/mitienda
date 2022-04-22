@@ -1,0 +1,21 @@
+.precio {
+    color: #d84747;
+    font-size: 1cm;
+    margin-left: 60%;
+}
+
+.agregar {
+    background-color: #d84747;
+    color: rgb(253, 246, 246);
+    border-radius: 28px;
+
+}
+
+.agregar:hover {
+    background-color: #212121ce;
+    cursor: pointer;
+}
+
+img{
+    height: 80;
+}

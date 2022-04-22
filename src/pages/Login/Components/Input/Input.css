@@ -1,0 +1,39 @@
+.telefono {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+
+::placeholder {
+    color: white;
+    font-size: 1.2em;
+}
+
+.input {
+    width: 35%;
+}
+
+.inputError {
+    border: 1px solid red;
+    color: red;
+    background: #ef5757;
+    width: 35%;
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+
+}
+
+.textoError {
+    border: 1px solid red;
+    color: white;
+    background: #ef5757;
+    width: 88%;     
+}
+
+.textoErroroculto {
+    display: none;
+}
